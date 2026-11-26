@@ -62,14 +62,12 @@ These results are preliminary. They suggest that doing well on the validation sp
 
 ```text
 Dataset/
-├── rps/                             # Images used for training and validation
-└── rps-test-set/                    # Separate test images
+├── rps/                                             # Images used for training and validation
+└── rps-test-set/                                    # Separate test images
 notebooks/
-└── rock_paper_scissors_classification_updated.ipynb
-                                     # Shared notebook for our experiments
-results/                             # Saved tables and figures
-principal-component-analysis-visualization.ipynb
-                                     # External PCA reference notebook
+└── rock_paper_scissors_classification.ipynb         # Shared notebook for our experiments
+results/                                             # Saved tables and figures
+principal-component-analysis-visualization.ipynb     # External PCA reference notebook
 README.md
 ```
 
